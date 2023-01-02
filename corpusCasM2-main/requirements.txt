@@ -1,0 +1,7 @@
+datasets
+spacy
+pandas
+jsonlines
+scikit-learn
+tqdm
+loguru

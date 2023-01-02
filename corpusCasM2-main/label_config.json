@@ -1,0 +1,58 @@
+[
+  {
+    "id": 566,
+    "text": "duration",
+    "prefixKey": null,
+    "suffixKey": "d",
+    "backgroundColor": "#73D8FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 568,
+    "text": "date",
+    "prefixKey": null,
+    "suffixKey": "a",
+    "backgroundColor": "#0062B1",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 570,
+    "text": "frequency",
+    "prefixKey": null,
+    "suffixKey": "f",
+    "backgroundColor": "#AEA1FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 571,
+    "text": "scope",
+    "prefixKey": null,
+    "suffixKey": "s",
+    "backgroundColor": "#FDA1FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 572,
+    "text": "problem",
+    "prefixKey": null,
+    "suffixKey": "p",
+    "backgroundColor": "#FB9E00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 573,
+    "text": "test",
+    "prefixKey": null,
+    "suffixKey": "t",
+    "backgroundColor": "#F44E3B",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 574,
+    "text": "treatment",
+    "prefixKey": null,
+    "suffixKey": "r",
+    "backgroundColor": "#68BC00",
+    "textColor": "#ffffff"
+  }
+]
